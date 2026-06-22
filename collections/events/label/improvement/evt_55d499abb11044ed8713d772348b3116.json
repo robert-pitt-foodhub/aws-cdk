@@ -1,0 +1,1 @@
+{"op":"label.upsert","value":{"color":"green","createdAt":"2026-06-22T11:05:54.397Z","createdBy":{"email":"robert.pitt@foodhub.com","name":"Robert PItt","type":"human"},"description":"Incremental refinement to existing behavior.","id":"improvement","name":"Improvement","schemaVersion":1,"updatedAt":"2026-06-22T11:05:54.397Z"}}
